@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 Change "space" 1
 Change "space" 2
 
 Master commit
-=======
-Change 1
-Change 2
 Idea branch initiated
->>>>>>> idea
