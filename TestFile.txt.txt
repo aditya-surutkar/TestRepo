@@ -3,3 +3,5 @@ Change "space" 2
 
 Master commit
 Idea branch initiated
+
+Version 1.0
